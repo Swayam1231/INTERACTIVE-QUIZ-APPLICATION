@@ -1,1 +1,13 @@
 # INTERACTIVE-QUIZ-APPLICATION
+
+"COMPANY": CODTECH IT SOLUTIONS PVT.LTD
+
+"NAME": Swayam Pratap Singh
+
+"INTERN ID": CT04DH185
+
+"DOMAIN": Frontend Web Development
+
+"DURATION": 4 weeks
+
+"MENTOR": Neela Santhosh Kumar
