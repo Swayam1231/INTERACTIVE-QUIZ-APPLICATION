@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Interactive Quiz App</title>
+  <link rel="stylesheet" href="sytle.css" />
+</head>
+<body>
+  <div class="quiz-container">
+    <h1>⚡ Web Dev Quiz</h1>
+    
+    <div id="quiz-box" class="card">
+      <div id="question-container" class="question-text"></div>
+      <div id="answer-buttons" class="btn-container"></div>
+      <button id="next-btn" class="btn primary">Next</button>
+    </div>
+
+    <div id="score-container" class="card hide">
+      <h2>Your Score</h2>
+      <p id="final-score"></p>
+      <button onclick="startQuiz()" class="btn primary">Restart Quiz</button>
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
